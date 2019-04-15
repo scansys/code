@@ -1,5 +1,3 @@
-# code
+# Code
 
-En wat tekst,
-
-en nog een regel.
+Hier wat tekst met nog wat erbij.
